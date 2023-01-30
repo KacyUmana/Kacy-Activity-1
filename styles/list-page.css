@@ -1,0 +1,26 @@
+#ul-nb {
+    list-style-type: none;
+    margin:2px;
+    padding:3px;
+    text-align: center;
+  }
+  #ul-nb li {
+    display: inline;
+    padding:10px;
+    background:violet;
+    color: white;
+    text-align: center;
+    margin-left:5px;
+  }
+  #ul-nb li:hover {
+    display: inline-block;
+    background:pink;
+    color:white;
+  }
+  a {
+    text-decoration:none;
+  }
+
+  body {
+    background-color: lavender;
+  }

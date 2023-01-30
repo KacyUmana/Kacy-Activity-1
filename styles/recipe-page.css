@@ -1,0 +1,104 @@
+body {
+    background-color: lavender;
+}
+
+
+
+p#cookies {
+    font-size:x-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1#cookies {
+    font-size: 5vw;
+    text-align: center;
+    font-family: "Apple Chancery", cursive;
+}
+h2#cookies {
+    font-size: xx-large;
+    font-family: "Apple Chancery", cursive;
+}
+h3#cookies {
+    font-size: xx-large;
+    font-family: "Apple Chancery", cursive;
+}
+ul#cookies {
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+p#ube {
+    font-size:x-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1#ube {
+    font-size: 5vw;
+    text-align: center;
+    font-family: "Apple Chancery", cursive;
+}
+h2#ube {
+    font-size: xx-large;
+    font-family: "Apple Chancery", cursive;
+}
+h3#ube {
+    font-size:large;
+}
+h4#ube {
+    font-size:large;
+}
+h5#ube {
+    font-size:large;
+}
+h6#ube {
+    font-size: xx-large;
+    font-family: "Apple Chancery", cursive;
+}
+ul#ube {
+    font-size: large;
+    font-weight:500;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
+
+p#ndy {
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1#ndy {
+    font-size: 5vw;
+    text-align: center;
+    font-family: "Apple Chancery", cursive;
+}
+h2#ndy {
+    font-size: xx-large;
+    font-family: "Apple Chancery", cursive;
+}
+h3#ndy {
+    font-size:large;
+}
+h4#ndy {
+    font-size:large;
+}
+h5#ndy {
+    font-size: xx-large;
+    font-family: "Apple Chancery", cursive;
+}
+h6#ndy {
+    font-size:large;
+}
+h7#ndy {
+    font-size:large;
+    font-weight: bold;
+}
+ul#ndy {
+    font-size:large;
+    font-weight: 500;
+}
